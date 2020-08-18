@@ -1,2 +1,2 @@
 # jump_cutter
-Jump Cutter Extendsion for Sony Vegas
+Jump Cutter Extension for Sony Vegas
